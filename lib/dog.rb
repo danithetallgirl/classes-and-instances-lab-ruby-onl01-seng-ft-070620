@@ -1,5 +1,7 @@
 Class dog
- puts woof
+ 
+def dog
+   puts woof
 end
 
 #fido = dog.new
